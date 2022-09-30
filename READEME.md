@@ -1,0 +1,1 @@
+The website will have an index page, as is standard with websites, which will contain links to recipies. 
